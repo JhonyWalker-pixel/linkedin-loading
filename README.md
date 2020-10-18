@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="imagens/icon-repository.png" alt="Linkedin Loading" width="300px" />
+    <img src="imagens/icon-repo-linkedin.png" alt="Linkedin Loading" width="300px" />
 </h1>
 
 ## :clipboard: About the project
