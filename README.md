@@ -7,10 +7,10 @@
 
 I recreated the loading animation from Linkedin, the unmistakable screen that has the logo and bar animation as its main element
 
-## :computer: Languages used
+## :computer: Used language
 
 The best part is that it was just using HTML and CSS
 
-## :book: Licença
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
